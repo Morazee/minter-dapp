@@ -40,7 +40,7 @@ const format = {
   smoothing: false,
 };
 const extraMetadata = {
-  external_url: "peppy-manatee-d180e8.netlify.app", // Replace with your website or remove this line if you do not have one.
+  external_url: "https://candid-sprite-128f8c.netlify.app/", // Replace with your website or remove this line if you do not have one.
 };
 
 // NFTPort Info
@@ -68,7 +68,7 @@ const PRESALE_MINT_START_DATE = "2022-06-10T11:30:48+00:00"; // Optional. Eg: 20
 const ROYALTY_SHARE = 1000; // Percentage of the token price that goes to the royalty address. 100 bps = 1%
 const ROYALTY_ADDRESS = "0x75dc147b69122AA594566fdE1E7D07bD08ca707C"; // Address that will receive the royalty
 const BASE_URI = null; // only update if you want to manually set the base uri
-const PREREVEAL_TOKEN_URI = <iframe src="https://cointool.app/tokenView?id=QmRuFKgWuox2VFdhqfDf9WsVwkUybUkfvgpZmA65iTGDzP&menu=1&contact=1&iframe=1" width="1150"  height="670" frameborder="0"  />; // only update if you want to manually set the prereveal token uri
+const PREREVEAL_TOKEN_URI = true ; // only update if you want to manually set the prereveal token uri
 const PRESALE_WHITELISTED_ADDRESSES = []; // only update if you want to manually set the whitelisted addresses
 
 // ** OPTIONAL **
